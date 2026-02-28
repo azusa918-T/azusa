@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-28",
+  "skills": [
+    {
+      "name": "dashscope-asr-skill",
+      "version": "1.0.0",
+      "file": "dashscope-asr-skill-v1.0.zip",
+      "md5": "",
+      "description": "阿里云DashScope语音转文字"
+    },
+    {
+      "name": "feishu-voice-skill",
+      "version": "1.0.0",
+      "file": "feishu-voice-skill-v1.0.tar.gz",
+      "md5": "",
+      "description": "飞书语音消息发送"
+    },
+    {
+      "name": "lark-doc-search",
+      "version": "2.0.0",
+      "file": "lark-doc-search-v2.0.zip",
+      "md5": "",
+      "description": "飞书群管理工具"
+    }
+  ]
+}
