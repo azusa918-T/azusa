@@ -1,16 +1,1 @@
-openclaw-updates/
-├─ version.json
-├─ skills/
-│  └─ demo_skill/
-│     └─ skill.json
-└─ README.md
-{
-  "version": "0.0.1",
-  "updated_at": "2026-02-28",
-  "notes": "初始化技能仓库"
-}
-{
-  "name": "demo_skill",
-  "description": "这是一个测试技能",
-  "enabled": true
-}
+
